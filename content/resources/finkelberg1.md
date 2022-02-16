@@ -4,9 +4,14 @@ description: 'This resource provides an example of a completed completed ten-pag
   comparative close analysis essay assignment. The student work, Text, Performance,
   and Politics: The Offstage Bodies of Antigone and The Island, is written by Amanda
   Finkelberg, and includes comments from the instructor.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-796-major-media-texts-fall-2006/7818c21723579568faf36d2630b6608a_finkelberg1.pdf
+file: /media/courses/cms-796-major-media-texts-fall-2006/7818c21723579568faf36d2630b6608a_finkelberg1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: finkelberg1.pdf
+type: OCWFile
 uid: 7818c217-2357-9568-faf3-6d2630b6608a
 ---

@@ -3,9 +3,14 @@ content_type: resource
 description: 'This resource provides an example of a completed one-page comparative
   essay precis assignment. The student work, Gallery Talk: Christian Jankowski, is
   written by Karen Verschooren.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-796-major-media-texts-fall-2006/907a2c6429f7067e4df85ba449b7a22f_verschooren2.pdf
+file: /media/courses/cms-796-major-media-texts-fall-2006/907a2c6429f7067e4df85ba449b7a22f_verschooren2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: verschooren2.pdf
+type: OCWFile
 uid: 907a2c64-29f7-067e-4df8-5ba449b7a22f
 ---

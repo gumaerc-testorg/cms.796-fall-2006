@@ -3,9 +3,14 @@ content_type: resource
 description: 'This resource provides an example of a completed ten-page comparative
   close analysis essay assignment. The student work, William Kentridge: Complexity
   and Intimacy, is written by Karen Verschooren.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-796-major-media-texts-fall-2006/f872952c4575e7f443b87ace7e428b4f_verschooren1.pdf
+file: /media/courses/cms-796-major-media-texts-fall-2006/f872952c4575e7f443b87ace7e428b4f_verschooren1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: verschooren1.pdf
+type: OCWFile
 uid: f872952c-4575-e7f4-43b8-7ace7e428b4f
 ---
