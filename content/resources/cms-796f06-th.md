@@ -14,10 +14,10 @@ image_metadata:
   credit: ''
   image-alt: 'Left: drawing of John Milton. Right: a circular Chinese artefact.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: cms-796f06-th.jpg
 uid: c1a319da-e850-a039-c419-fd8c6cbc57c8
 ---
 New image Upload
-
