@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required texts and other readings
+  for the course, and includes a schedule of topics for lectures.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: b4937988-d038-e1e5-be82-905f7eceee1f
 ---
 

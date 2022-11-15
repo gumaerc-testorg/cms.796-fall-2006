@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides information about course goals, requirements, grading,
+  and approximate weighting of course activities.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: 180326a5-7088-dc1e-a1c0-9963fd369932
 ---
 
