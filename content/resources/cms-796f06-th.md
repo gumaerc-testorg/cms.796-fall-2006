@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/cms-796-major-media-texts-fall-2006/c1a319dae850a039c419fd8c6cbc57c8_cms-796f06-th.jpg
+file_size: 15027
 file_type: image/jpeg
 image_metadata:
   caption: 'Left: John Milton, author of Paradise Lost; right: a Chinese artefact
@@ -9,8 +10,8 @@ image_metadata:
     Pitt Rivers Museum are both textual inspirations featured in _His Dark Materials_,
     a three volume series by Philip Pullman that is studied in CMS.796. The circular
     Chinese artefact above closely resembles Pullman''s alethiometer. (Left image
-    taken from [Wikipedia](http://en.wikipedia.org/wiki/Main_Page). Right image courtesy
-    of Kat Selvocki.)'
+    taken from {{% resource_link "e907dd41-5c26-4b46-9084-94a45e8eb86a" "Wikipedia"
+    %}}. Right image courtesy of Kat Selvocki.)'
   credit: ''
   image-alt: 'Left: drawing of John Milton. Right: a circular Chinese artefact.'
 learning_resource_types: []
