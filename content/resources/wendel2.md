@@ -4,6 +4,7 @@ description: This resource provides an example of a completed ten-page comparati
   close analysis essay assignment. The student work, Worldspace in Mary Shelley?s
   Frankenstein and Ridley Scott?s Blade Runner, is written by Evan Wendel.
 file: /courses/cms-796-major-media-texts-fall-2006/1bcc22985ff63684ec26a1b87768bf76_wendel2.pdf
+file_size: 153477
 file_type: application/pdf
 learning_resource_types:
 - Assignments
