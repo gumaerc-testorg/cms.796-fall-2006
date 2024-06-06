@@ -4,6 +4,7 @@ description: 'This resource provides an example of a completed ten-page comparat
   close analysis essay assignment. The student work, The Last Laugh: Comedy and Gender
   in Howard Hawks'' His Girl Friday, is written by Huma Yusuf.'
 file: /courses/cms-796-major-media-texts-fall-2006/8103030605cba2804ab6f91605c6e993_yusuf1.pdf
+file_size: 63800
 file_type: application/pdf
 learning_resource_types:
 - Assignments
