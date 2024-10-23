@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides an example of a completed three-page close reading
   assignment. The student work, A reading of Henry V, is written by Neal Grigsby.
-file: /courses/cms-796-major-media-texts-fall-2006/65a9ff517ab5f09c5c9c4ea1138974ec_grigsby2.pdf
+file: /ol-ocw-studio-app/courses/cms-796-major-media-texts-fall-2006/65a9ff517ab5f09c5c9c4ea1138974ec_grigsby2.pdf
 file_size: 69047
 file_type: application/pdf
 learning_resource_types:
