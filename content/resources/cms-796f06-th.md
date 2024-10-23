@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/cms-796-major-media-texts-fall-2006/c1a319dae850a039c419fd8c6cbc57c8_cms-796f06-th.jpg
+file: /ol-ocw-studio-app/courses/cms-796-major-media-texts-fall-2006/c1a319dae850a039c419fd8c6cbc57c8_cms-796f06-th.jpg
 file_size: 15027
 file_type: image/jpeg
 image_metadata:
