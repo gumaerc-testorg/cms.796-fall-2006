@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides an example of a completed three-page annotated
   bibliography assignment. The student work, Audio Books, an Annotated Bibliography,
   is written by Neal Grigsby.
-file: /ol-ocw-studio-app/courses/cms-796-major-media-texts-fall-2006/f2b46e8bd5df9880fccc44e6a6107946_grigsby3.pdf
+file: /courses/cms-796-major-media-texts-fall-2006/f2b46e8bd5df9880fccc44e6a6107946_grigsby3.pdf
 file_size: 171612
 file_type: application/pdf
 learning_resource_types:
