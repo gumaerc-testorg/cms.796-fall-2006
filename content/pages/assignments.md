@@ -46,4 +46,4 @@ Ten-page Comparative Close Analysis Essay
 Final Project
 -------------
 
-"[A History of the World in Hypertext Pages](http://www.boraski.com/www/hypertext.html)." by Evan Wendel.
+"{{% resource_link "25735c00-37bc-4e0b-b16e-a123272a0f98" "A History of the World in Hypertext Pages" %}}." by Evan Wendel.

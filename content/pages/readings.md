@@ -116,7 +116,7 @@ Discussion of _Henry V_: Text, Image, and Performance
 
 Shakespeare. _Henry V_.
 
-Henderson, Diana E. [_Henry V: An Introduction through Performance_](http://lit.mit.edu/).
+Henderson, Diana E. {{% resource_link "7196ae59-da06-4f2c-99c0-b9e188497e10" "_Henry V: An Introduction through Performance_" %}}.
 
 
 {{< tdclose >}}
